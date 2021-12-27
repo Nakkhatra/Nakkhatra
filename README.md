@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Md. Shahrin Nakkhatra
-- 👀 I’m interested in AI (NLP and Computer Vision), Machine Learning and Data science
-- 🌱 I’m currently learning Natural Language processing from stanford online courses and coursera courses
+- 👀 I graduated from Bangladesh University of Engineering & Technology in Mechanical Engineering and I'm interested in AI (NLP and Computer Vision), Machine Learning and Data science
+- 🌱 Currently working at NybSys as a Machine Learning Engineer. Also working as a researcher and project contributor at Omdena. Past: Avery Dennison.
 - 💞️ I’m looking to collaborate on NLP and computer vision/ Data science projects
 - 📫 How to reach me: 
 Linkedin: https://www.linkedin.com/in/nakkhatra/
